@@ -1,0 +1,1 @@
+google documentsで絵文字風に自分のアイコンを貼る機能
